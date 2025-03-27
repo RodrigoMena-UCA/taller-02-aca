@@ -4,7 +4,7 @@
   "description": "��#\u0000 \u0000t\u0000a\u0000l\u0000l\u0000e\u0000r\u0000-\u00000\u00002\u0000-\u0000a\u0000c\u0000a\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "module"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/RodrigoMena-UCA/taller-02-aca/issues"
   },
-  "homepage": "https://github.com/RodrigoMena-UCA/taller-02-aca#readme",
-  "devDependencies": {
-    "@commitlint/cli": "^19.8.0",
-    "@commitlint/config-conventional": "^19.8.0"
-  }
+  "homepage": "https://github.com/RodrigoMena-UCA/taller-02-aca#readme"
 }
